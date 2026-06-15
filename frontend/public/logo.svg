@@ -1,0 +1,21 @@
+<svg width="100%" viewBox="0 0 680 400" role="img" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563eb"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="240" y="40" width="200" height="200" rx="40" fill="url(#bgGrad)"/>
+  <rect x="275" y="90" width="130" height="16" rx="8" fill="white" opacity="0.3"/>
+  <rect x="275" y="116" width="100" height="16" rx="8" fill="white" opacity="0.5"/>
+  <rect x="275" y="142" width="115" height="16" rx="8" fill="white" opacity="0.3"/>
+  <circle cx="265" cy="98" r="7" fill="white" opacity="0.9"/>
+  <circle cx="265" cy="124" r="7" fill="white" opacity="0.9"/>
+  <circle cx="265" cy="150" r="7" fill="white" opacity="0.9"/>
+  <circle cx="370" cy="185" r="32" fill="#1d4ed8" stroke="white" stroke-width="3"/>
+  <text x="370" y="191" text-anchor="middle" fill="white" font-size="20" font-weight="700" font-family="sans-serif">AI</text>
+  <text x="340" y="285" text-anchor="middle" fill="#1e293b" font-size="28" font-weight="700" font-family="sans-serif" letter-spacing="1">Job Tracker</text>
+  <text x="340" y="318" text-anchor="middle" fill="#7c3aed" font-size="16" font-weight="500" font-family="sans-serif" letter-spacing="3">POWERED BY AI</text>
+  <rect x="260" y="332" width="160" height="3" rx="2" fill="url(#bgGrad)"/>
+</svg>
